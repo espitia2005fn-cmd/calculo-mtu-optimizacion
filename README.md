@@ -2,6 +2,8 @@
 
 Proyecto Final — Cálculo Diferencial, Universidad de La Salle (Tema 15).
 
+**Autores:** Juan Andres Daza, Alejandro Garcia Vega , Juan David Espitia Gutiérrez
+
 Este repositorio contiene el código que reproduce todos los resultados del artículo: el modelo de eficiencia
 $E(S)$, el tamaño óptimo de paquete $S^*$ obtenido con $dE/dS = 0$, la simulación Monte Carlo con barras de
 error y la propagación de la incertidumbre de la tasa de error de bit (BER).
